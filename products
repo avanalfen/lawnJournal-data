@@ -1,0 +1,15 @@
+{
+  "productName": "BIOADVANCED 24 lbs. Granule 5 in. 1 Weed and Feed for Northern Lawns",
+  "N": 22,
+  "P": 0,
+  "K": 4,
+  "coverage": 10000,
+  "weight": 24,
+  "activeIngredients": {
+    "2,4-D": 0.818,
+    "Quinclorac": 0.419,
+    "Dicamba": 0.073,
+    "Dithiopyr": 0.240
+  },
+  "kills": ["Dandelion", "Chickweed", "Clover", "Crabgrass", "Goosegrass", "Wild Onion"]
+}
